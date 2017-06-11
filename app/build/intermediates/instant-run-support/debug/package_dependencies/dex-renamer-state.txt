@@ -1,0 +1,13 @@
+#Sun Jun 11 18:02:28 EDT 2017
+renamed.3=classes2.dex
+renamed.2=classes3.dex
+renamed.1=classes.dex
+renamed.0=classes4.dex
+base.3=/home/karan/AndroidStudioProjects/notepad/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.2_14023b800279c764bbaf97af8762307d84fbdea1
+base.2=/home/karan/AndroidStudioProjects/notepad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fde6a62a7b514d0220ff262cfb42d1da8423ea87
+base.1=/home/karan/AndroidStudioProjects/notepad/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.2_ba8a8dc79d57f30c4d5afeede2048e2d840767cb
+base.0=/home/karan/AndroidStudioProjects/notepad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b56ba8d0646a81befd30d91ef71ef8fcbb5d6bb1
+file.3=/home/karan/AndroidStudioProjects/notepad/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.2_14023b800279c764bbaf97af8762307d84fbdea1/classes.dex
+file.2=/home/karan/AndroidStudioProjects/notepad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fde6a62a7b514d0220ff262cfb42d1da8423ea87/classes.dex
+file.1=/home/karan/AndroidStudioProjects/notepad/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.2_ba8a8dc79d57f30c4d5afeede2048e2d840767cb/classes.dex
+file.0=/home/karan/AndroidStudioProjects/notepad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b56ba8d0646a81befd30d91ef71ef8fcbb5d6bb1/classes.dex

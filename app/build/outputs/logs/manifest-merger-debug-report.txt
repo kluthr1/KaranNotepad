@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:1:1-41:12
+	package
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:2:5-32
+		INJECTED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml
+		INJECTED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml
+		INJECTED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml
+		INJECTED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:1:11-69
+	android:installLocation
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:5:5-35
+application
+ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:7:5-39:19
+MERGED from [com.android.support:appcompat-v7:21.0.2] /home/karan/.android/build-cache/47662d3c44d7bdc9659178c4bb93cf150beaa881/output/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.2] /home/karan/.android/build-cache/9f4ec4cc701b89ff40e4fd4d6e7e91fe82b8ef3a/output/AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:9:9-41
+	android:allowClearUserData
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:12:9-42
+	android:allowBackup
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:10:9-40
+	android:name
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:8:9-60
+activity#com.karan.notepad.note_list.NotepadListActivity
+ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:13:9-28:20
+	android:label
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:15:13-64
+	android:configChanges
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:16:13-83
+	android:theme
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:14:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:21:27-74
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.SEND
+ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:24:14-66
+	android:name
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:24:22-63
+category#android.intent.category.DEFAULT
+ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:25:14-73
+	android:name
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:25:24-70
+data
+ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:26:14-48
+	android:mimeType
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:26:20-45
+activity#com.karan.notepad.note_edit.NoteEditActivity
+ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:29:9-35:20
+	android:label
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:31:13-50
+	android:windowSoftInputMode
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:32:13-55
+	android:configChanges
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:33:13-72
+	android:theme
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:30:13-55
+meta-data#com.google.android.backup.api_key
+ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:37:9-38:74
+	android:value
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:38:5-71
+	android:name
+		ADDED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml:37:20-68
+uses-sdk
+INJECTED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:21.0.2] /home/karan/.android/build-cache/47662d3c44d7bdc9659178c4bb93cf150beaa881/output/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.2] /home/karan/.android/build-cache/9f4ec4cc701b89ff40e4fd4d6e7e91fe82b8ef3a/output/AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		INJECTED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml
+		INJECTED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml
+		INJECTED from /home/karan/AndroidStudioProjects/notepad/app/src/main/AndroidManifest.xml

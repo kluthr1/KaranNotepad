@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/karan/AndroidStudioProjects/notepad/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd924fbe538304cf45b57b66c084b7b1a0fc6ba4">
+        <dex dex="/home/karan/AndroidStudioProjects/notepad/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a921bba886017cff1803ffbe1545f15a778df7d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/karan/.android/build-cache/9f4ec4cc701b89ff40e4fd4d6e7e91fe82b8ef3a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/karan/AndroidStudioProjects/notepad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fde6a62a7b514d0220ff262cfb42d1da8423ea87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/karan/AndroidStudioProjects/notepad/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/karan/AndroidStudioProjects/notepad/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_11c996955e886078d752c81d5179ef09dc8e5589/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/karan/.android/build-cache/9f4ec4cc701b89ff40e4fd4d6e7e91fe82b8ef3a/output/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/karan/AndroidStudioProjects/notepad/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.2_ba8a8dc79d57f30c4d5afeede2048e2d840767cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/karan/.android/build-cache/47662d3c44d7bdc9659178c4bb93cf150beaa881/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/home/karan/AndroidStudioProjects/notepad/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b56ba8d0646a81befd30d91ef71ef8fcbb5d6bb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/karan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/home/karan/AndroidStudioProjects/notepad/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.2_14023b800279c764bbaf97af8762307d84fbdea1/classes.dex" />
+    </item>
+
+</items>
