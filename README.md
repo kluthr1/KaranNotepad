@@ -1,2 +1,2 @@
 # KaranNotepad
-A NotePad App that Sets up an SQLite Database for Ms.Rhee's CSP Class
+A NotePad App that Sets up a Database (on a new file) for Ms.Rhee's CSP Class
